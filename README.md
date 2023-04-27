@@ -1,5 +1,5 @@
 # sql-homework
-Module 7 Challenge: Looking for Suspicious Transactions
+Module 7 challenge: Looking for Suspicious Transactions
 
 ## Data Modeling
 #### Entity relationship diagram
